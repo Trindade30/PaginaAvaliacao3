@@ -1,0 +1,16 @@
+/* Importação de fonte */
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+
+body {
+    background-color: rgb(55, 54, 56);
+}
+
+/* Resetando regras do css */
+
+* {
+    margin: 0px;
+    padding: 22px;
+    outline: none;
+    font-family: Bakbak One, sans-serif;
+    font-size: 40px;
+}
